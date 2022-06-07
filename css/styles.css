@@ -1,0 +1,21 @@
+body
+{
+  background-color:powderblue;
+}
+hr{
+  border-color: grey;
+  border-style: dotted none none;
+  width: 10%;
+  height: 0px;
+  border-width: 5px;
+
+}
+h3{
+  color: #F47C7C;
+  font-family: cursive;
+
+}
+h1{
+  color: #F47C7C;
+  font-family: fantasy;
+}
